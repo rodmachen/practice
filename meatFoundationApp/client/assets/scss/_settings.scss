@@ -70,6 +70,7 @@
 
 // This sets 1rem to be 16px
 // $rem-base: 16px;
+$rem-base: 18px;
 
 // The default font-size is set to 100% of the browser style sheet (usually 16px)
 // for compatibility with browser-based text zoom or user-set defaults.
@@ -94,6 +95,7 @@
 $body-background: #FFCE71;
 // $body-font-color: #222;
 // $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$body-font-family: Georgia,Times,"Times New Roman",serif;
 // $body-font-weight: $font-weight-normal;
 // $body-font-style: normal;
 // $body-antialiased: true;
