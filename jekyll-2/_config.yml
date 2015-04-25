@@ -1,0 +1,12 @@
+# Site settings
+title: Rod Machen
+email: mail@rodmachen.com
+description: > # this means to ignore newlines until "baseurl:"
+  Rod Machen's writings on tech and code.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rodmachen.github.io" # the base hostname & protocol for your site
+twitter_username: rod_machen
+github_username:  rodmachen
+
+# Build settings
+markdown: kramdown
